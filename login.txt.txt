@@ -1,1 +1,2 @@
-Hello this is github
+Hello this is GitHub
+i'm developer x
